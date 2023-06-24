@@ -53,3 +53,9 @@ We combined a dataset from Kaggle's APTOS 2019 blindness detection with ResNet-1
 
 INNOVATION IN OUR PROJECT
 Based on the survey conducted, numerous methods have been devised to predict different stages of diabetic retinopathy. However, this project proposes a unique approach that utilizes Deep Learning Algorithms to detect the various stages of diabetic retinopathy at an early phase. The system not only provides automatic diagnosis but also facilitates web-based interaction with specialists. In addition, the feedback and description provided by the doctors are transmitted to the patients via SMS alerts on their mobile devices. This integrated approach aims to enhance the efficiency of diabetic retinopathy diagnosis, enable timely interventions, and ensure effective communication between healthcare providers and patients, ultimately improving the overall management of the condition.
+
+Contact Details:
+Guide: Dr. SUPREETH H S G ,ASSOCIATE PROFESSOR,DEPT OF ECE, SJBIT,BANGALORE
+Members: NANDAGANESH[1JB19EC058],PUNEETH P[1JB19EC071],SACHITH M[1JB19EC079], SHWETHA B M[1JB19EC085]. STUDENTS OF SJBIT,DEPT OF ECE, SJBIT, BANGALORE
+Ph No: +917760866266 
+E-mail: nandugani55@gmail.com
