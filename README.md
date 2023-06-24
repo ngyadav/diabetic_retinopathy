@@ -44,6 +44,7 @@ RESULT AND DISCUSSION
 We combined a dataset from Kaggle's APTOS 2019 blindness detection with ResNet-152 to train our suggested model, and the outcome has an accuracy of 0.984. A variety of machine learning methods, including K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Decision Tree (DT), and Regression approach, were compared to the suggested approach. Table 1 below provides a summary of the findings along with the accuracy ratings for each model.
 
 ![image](https://github.com/ngyadav/ubiquitous-fortnight/assets/118537866/8708ed39-3c05-4eb6-be24-20ad6c261006)
+![SMS ALERTS](https://github.com/ngyadav/diabetic_retinopathy/assets/118537866/ed20ded7-ac9d-4bfc-b6c2-25a192603d27)
 
 
 INNOVATION IN OUR PROJECT
