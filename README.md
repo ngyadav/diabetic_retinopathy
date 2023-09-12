@@ -1,9 +1,10 @@
 # diabetic_retinopathy
 # Diabetic_Retinopathy
 Title: Diagnosis of Diabetic Retinopathy Using Deep Learning Algorithms.
-Description: 1. Detect the presence of diabetic retinopathy and classify its severity level at the Early Stage. 
-             2. Contacting Specialised doctors and getting feedback, and guidance for affected persons.
-             3. Communicating with patients in remote/rural areas through SMS alerts with doctor descriptions for prevention.
+Description: 
+1. Detect the presence of diabetic retinopathy and classify its severity level at the Early Stage. 
+2. Contacting Specialised doctors and getting feedback, and guidance for affected persons.
+3. Communicating with patients in remote/rural areas through SMS alerts with doctor descriptions for prevention.
 
 METHODOLOGY:      
 ![image](https://github.com/ngyadav/diabetic_retinopathy/assets/118537866/7abd071a-a691-4aa4-8b68-70f43bb37c00)
